@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { Component } from 'react';
 import { View, Text, ListView, TouchableHighlight } from 'react-native';
 import { connect } from 'react-redux';
